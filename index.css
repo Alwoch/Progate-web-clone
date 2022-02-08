@@ -1,0 +1,14 @@
+.col {
+  border: 1px solid #dae0e5;
+  background-color: #dae0e5;
+}
+.navigation ul li {
+  float: left;
+  list-style: none;
+}
+.profile {
+  float: right;
+}
+.profile img {
+  border-radius: 50%;
+}
